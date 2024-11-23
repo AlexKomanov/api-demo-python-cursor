@@ -58,7 +58,7 @@ The following is a summary of the test results from the latest run:
 - **Duration:** 00:00:02
 
 ### Screenshot of Test Report
-![Test Report](@2024-11-23_20-14-49.png)
+![Test Report](img/2024-11-23_20-14-49.png)
 
 
 
